@@ -1,0 +1,10 @@
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\bin\Debug\SAD-EXER1.exe.config
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\bin\Debug\SAD-EXER1.exe
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\bin\Debug\SAD-EXER1.pdb
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\bin\Debug\SAD-EXER1.xml
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD_EXER1.Calendar.resources
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD_EXER1.Resources.resources
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD-EXER1.vbproj.GenerateResource.Cache
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD-EXER1.exe
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD-EXER1.xml
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER1\SAD-EXER1\obj\Debug\SAD-EXER1.pdb
